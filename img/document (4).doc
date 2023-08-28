@@ -1,0 +1,164 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML to Word Document with JavaScript</title><style>@page { size: 21cm 29.7cm; margin: 2cm; }</style></head><body><div class="panel-body table-responsive" id="printarea">
+                    <center>
+                                <h4>Bangladesh Public Administration Training Centre </h4>
+                                Savar, Dhaka-1343<br>
+                                <a href="http://www.bpatc.org.bd/" target="_blank" title="">www.bpatc.org.bd</a>
+                                <br>
+                                Evaluation Department - Final Result
+                                <br>
+                                <b>
+                                    Report By Final Result <br>
+                                    75<sup>th</sup> Foundation Training Course - &nbsp;
+                                    Foundation Training Course                                </b><br>
+                                (02/04/2023 - 02/11/2023)                                                                <br>
+                            </center><b class="pull-right">Date: 28/08/23</b><table id="table-material-summary" class="table ">
+                        <tbody><tr>
+                            
+                            
+                        </tr>
+                    </tbody></table>
+                    <table id="table-course" class="table table-bordered table-condensed table-striped table-hover display " style="border-collapse: collapse;">
+                        <thead style="background:#039CB7;">
+                            <tr style="color: #FFF; border:solid gray 1px">
+                                <th colspan="2">&nbsp;</th>
+                                <th style="background-color: #039cb7" colspan="6">Academic</th><th style="background-color: #039cb7; border: 1px solid gray" rowspan="2">Total (Academic)</th>                                <th colspan="4"></th>
+                            </tr>
+                            <tr style="color: #FFF; border: solid 1px gray">
+                                <th style="background-color: #039cb7;border: solid 1px gray">Roll</th>
+                                <th style="background-color: #039cb7; border: solid 1px gray">Participant</th>
+                                <th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="Bangladesh and Bangabandhu Studies - Md. Atikuzzaman">BBS (50) </a></th><th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="Village Study  - Md. Siddiqur Rahman">VS (50) </a></th><th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="Poverty Reduction and Rural Development - Md. Motaher Hossain">PRRD (50) </a></th><th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="District and Upazila Attachement - Khatune Jannath">DUA (50) </a></th><th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="Governmental System and Essential Laws - K. M. Abdul Kader">GSEL (50) </a></th><th style="background-color: #039cb7; border: gray solid 1px"><a style="color:white" href="#" data-toggle="tooltip" data-placement="bottom" title="Office Management and Communications - Md. Abul Basher">OMC (50) </a></th>                                <th style="background-color: #039cb7;border: solid 1px gray">Total (300)
+                                    <input type="hidden" name="total" value="300">
+                                </th>
+                                <th style="background-color: #039cb7;border: solid 1px gray">%</th>
+                                <th style="background-color: #039cb7;border: solid 1px gray">Grade</th>
+                                <th style="background-color: #039cb7;border: solid 1px gray">Position</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                        <tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Badal Mia</td><td style="border: solid 1px gray">2</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">2</td><td style="border: solid 1px gray">2.00</td><td style="border: solid 1px gray">0.67</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_104730" value="104730"><br> <input type="hidden" name="marks_104730" value="2.00"><br> <input type="hidden" name="percent_104730" value="0.67"><br> <input type="hidden" name="grade_104730" value="Failed"><br> <input type="hidden" name="position_104730" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Imran Hossain</td><td style="border: solid 1px gray">0</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_104731" value="104731"><br> <input type="hidden" name="marks_104731" value="0.00"><br> <input type="hidden" name="percent_104731" value="0.00"><br> <input type="hidden" name="grade_104731" value="Failed"><br> <input type="hidden" name="position_104731" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. MOSTAFIZUR RAHMAN</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_104732" value="104732"><br> <input type="hidden" name="marks_104732" value="0.00"><br> <input type="hidden" name="percent_104732" value="0.00"><br> <input type="hidden" name="grade_104732" value="Failed"><br> <input type="hidden" name="position_104732" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">TAREQ AZIZ</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_105636" value="105636"><br> <input type="hidden" name="marks_105636" value="0.00"><br> <input type="hidden" name="percent_105636" value="0.00"><br> <input type="hidden" name="grade_105636" value="Failed"><br> <input type="hidden" name="position_105636" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Imran Hossain</td><td style="border: solid 1px gray">0</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109732" value="109732"><br> <input type="hidden" name="marks_109732" value="0.00"><br> <input type="hidden" name="percent_109732" value="0.00"><br> <input type="hidden" name="grade_109732" value="Failed"><br> <input type="hidden" name="position_109732" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Rakesh Ghosh</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_105637" value="105637"><br> <input type="hidden" name="marks_105637" value="0.00"><br> <input type="hidden" name="percent_105637" value="0.00"><br> <input type="hidden" name="grade_105637" value="Failed"><br> <input type="hidden" name="position_105637" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Imran Hossain</td><td style="border: solid 1px gray">0</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109733" value="109733"><br> <input type="hidden" name="marks_109733" value="0.00"><br> <input type="hidden" name="percent_109733" value="0.00"><br> <input type="hidden" name="grade_109733" value="Failed"><br> <input type="hidden" name="position_109733" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Sakib Anam Khan</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_105638" value="105638"><br> <input type="hidden" name="marks_105638" value="0.00"><br> <input type="hidden" name="percent_105638" value="0.00"><br> <input type="hidden" name="grade_105638" value="Failed"><br> <input type="hidden" name="position_105638" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Imran Hossain</td><td style="border: solid 1px gray">0</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109734" value="109734"><br> <input type="hidden" name="marks_109734" value="0.00"><br> <input type="hidden" name="percent_109734" value="0.00"><br> <input type="hidden" name="grade_109734" value="Failed"><br> <input type="hidden" name="position_109734" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">M. Sharif khan</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_105639" value="105639"><br> <input type="hidden" name="marks_105639" value="0.00"><br> <input type="hidden" name="percent_105639" value="0.00"><br> <input type="hidden" name="grade_105639" value="Failed"><br> <input type="hidden" name="position_105639" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Imran Hossain</td><td style="border: solid 1px gray">0</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109735" value="109735"><br> <input type="hidden" name="marks_109735" value="0.00"><br> <input type="hidden" name="percent_109735" value="0.00"><br> <input type="hidden" name="grade_109735" value="Failed"><br> <input type="hidden" name="position_109735" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. RONI MIAH</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_105640" value="105640"><br> <input type="hidden" name="marks_105640" value="0.00"><br> <input type="hidden" name="percent_105640" value="0.00"><br> <input type="hidden" name="grade_105640" value="Failed"><br> <input type="hidden" name="position_105640" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. MOSTAFIZUR RAHMAN</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109736" value="109736"><br> <input type="hidden" name="marks_109736" value="0.00"><br> <input type="hidden" name="percent_109736" value="0.00"><br> <input type="hidden" name="grade_109736" value="Failed"><br> <input type="hidden" name="position_109736" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. MOSTAFIZUR RAHMAN</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109737" value="109737"><br> <input type="hidden" name="marks_109737" value="0.00"><br> <input type="hidden" name="percent_109737" value="0.00"><br> <input type="hidden" name="grade_109737" value="Failed"><br> <input type="hidden" name="position_109737" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. MOSTAFIZUR RAHMAN</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109738" value="109738"><br> <input type="hidden" name="marks_109738" value="0.00"><br> <input type="hidden" name="percent_109738" value="0.00"><br> <input type="hidden" name="grade_109738" value="Failed"><br> <input type="hidden" name="position_109738" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">MD. MOSTAFIZUR RAHMAN</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">0.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109739" value="109739"><br> <input type="hidden" name="marks_109739" value="0.00"><br> <input type="hidden" name="percent_109739" value="0.00"><br> <input type="hidden" name="grade_109739" value="Failed"><br> <input type="hidden" name="position_109739" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Badal Mia2</td><td style="border: solid 1px gray">23</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">23</td><td style="border: solid 1px gray">23.00</td><td style="border: solid 1px gray">7.67</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109741" value="109741"><br> <input type="hidden" name="marks_109741" value="23.00"><br> <input type="hidden" name="percent_109741" value="7.67"><br> <input type="hidden" name="grade_109741" value="Failed"><br> <input type="hidden" name="position_109741" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Badal Mia2</td><td style="border: solid 1px gray">21</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">21</td><td style="border: solid 1px gray">21.00</td><td style="border: solid 1px gray">7.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109742" value="109742"><br> <input type="hidden" name="marks_109742" value="21.00"><br> <input type="hidden" name="percent_109742" value="7.00"><br> <input type="hidden" name="grade_109742" value="Failed"><br> <input type="hidden" name="position_109742" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Badal Mia2</td><td style="border: solid 1px gray">12</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">12</td><td style="border: solid 1px gray">12.00</td><td style="border: solid 1px gray">4.00</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109743" value="109743"><br> <input type="hidden" name="marks_109743" value="12.00"><br> <input type="hidden" name="percent_109743" value="4.00"><br> <input type="hidden" name="grade_109743" value="Failed"><br> <input type="hidden" name="position_109743" value="0"></td></tr><tr style="border: solid 1px gray"><td style="border: solid 1px gray"></td><td style="border: solid 1px gray">Md. Badal Mia2</td><td style="border: solid 1px gray">13</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">&nbsp;</td><td style="border: solid 1px gray">13</td><td style="border: solid 1px gray">13.00</td><td style="border: solid 1px gray">4.33</td><td style="border: solid 1px gray">Failed</td><td>
+                                <br> <input type="hidden" name="pid_109744" value="109744"><br> <input type="hidden" name="marks_109744" value="13.00"><br> <input type="hidden" name="percent_109744" value="4.33"><br> <input type="hidden" name="grade_109744" value="Failed"><br> <input type="hidden" name="position_109744" value="0"></td>                        </tr></tbody>
+                    </table>                    <table>
+                        <tbody><tr style="border: solid 1px gray">
+                            <td style="border:solid 1px gray">
+                                <div class="col-md-12 col-xs-12 col-lg-12 col-sm-12">
+                                    <table class="table table-bordered" style="font-size: 9px;">
+                                        <tbody><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(VS) -Village Study </td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(FFTC) -Fundamentals of Foundation Training Course</td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(PRRD) -Poverty Reduction and Rural Development</td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(GSEL) -Governmental System and Essential Laws</td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(BBS) -Bangladesh and Bangabandhu Studies</td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(DUA) -District and Upazila Attachement</td>
+
+													</tr><tr style="border: solid 1px gray">
+														<td style="solid 1px gray">(OMC) -Office Management and Communications</td>
+
+													</tr>                                    </tbody></table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="col-md-12 col-xs-12 col-sm-12 col-lg-12">
+                                    <table class="table table-bordered table-condensed">
+                                        <thead>
+                                            <tr style="font-size: 9px;">
+                                                <th colspan="2" style="text-align: center;">Grading System</th>
+                                            </tr>
+                                            <tr style="font-size: 9px;">
+                                                <th>Percentage of Marks</th>
+                                                <th>Grade</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody style="text-align:left; font-size: 9px;solid 1px gray">
+                                            <tr style="solid 1px gray">
+                                                <td> 85 and above </td>
+                                                <td>A+ (Outstanding)</td>
+                                            </tr>
+                                            <tr style="solid 1px gray">
+                                                <td> 80 - &lt; 85 </td>
+                                                <td>A (Very Good)</td>
+                                            </tr>
+                                            <tr>
+                                                <td>70 - &lt; 80</td>
+                                                <td>B+ (Good)</td>
+                                            </tr>
+                                            <tr style="solid 1px gray">
+                                                <td> 60 - &lt; 70 </td>
+                                                <td>B (Satisfactory)</td>
+                                            </tr>
+                                            <tr style="solid 1px gray">
+                                                <td> 50 - &lt; 60 </td>
+                                                <td>C (Average)</td>
+                                            </tr>
+                                            <tr style="solid 1px gray">
+                                                <td>
+                                                    &lt; 50 </td>
+                                                <td>Failed</td>
+                                            </tr>
+                                            <!-- <tr>
+										<td> 95 and above </td>
+											<td>A+ (Outstanding)</td>
+											</tr>
+										<tr>
+										<td> 90 - < 95 </td>
+											<td>A (Excellent)</td>
+										</tr>
+											<tr>
+										<td>85 - < 90</td>
+											<td>A- (Very Good)</td>
+											</tr>
+											<tr>
+										<td> 80 - < 85 </td>
+											<td>B+ (Good)</td>
+											</tr>
+											<tr>
+										<td> 70 - < 80 </td>
+											<td>B (Satisfactory)</td>
+											</tr>
+											<tr>
+										<td> 60 - < 70 </td>
+											<td>B - (Higher Average)</td>
+											</tr>
+											<tr>
+										<td>50 - < 60</td>
+											<td>C (Average)</td>
+											</tr>
+											<tr>
+										<td> < 50 </td>
+											<td>Failed</td>
+										</tr> -->
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div></body></html>
